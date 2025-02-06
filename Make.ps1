@@ -1,0 +1,1 @@
+PS2EXE -inputFile "Block all executable files in the current folder using the Windows Firewall.ps1" -outputFile "Block_all_executable_files_in_the_current_folder_using_the_Windows_Firewall.exe" -requireAdmin -verbose
